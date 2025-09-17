@@ -52,8 +52,8 @@ Identify and exploit SQL injection vulnerabilities using DVWA. This project cove
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/yourusername/ethical-hacking-projects-for-beginners.git
-    cd ethical-hacking-projects-for-beginners
+    git clone https://github.com/Cyb3rflex/Beginners_Ethical_Hacking_Guide.git
+    cd Beginners_Ethical_Hacking_Guide
     ```
 
 2. **Navigate to Each Project Directory:**
@@ -67,7 +67,7 @@ Identify and exploit SQL injection vulnerabilities using DVWA. This project cove
 
 ## About Me
 
-Hi, I'm Abdulmuheez Qazeem, Rajneesh Gupta, Cybersecurity Analyst, Pentester and Coach, I share security projects and tools.
+Hi, I'm Abdulmuheez Qazeem, Cybersecurity Analyst, Pentester and Code Tutor, I share security projects and tools.
 
 ## Connect with Me
 
