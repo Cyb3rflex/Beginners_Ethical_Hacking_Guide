@@ -67,18 +67,17 @@ Identify and exploit SQL injection vulnerabilities using DVWA. This project cove
 
 ## About Me
 
-Hi, I'm Rajneesh Gupta, security consultant, coach, and two-times best-selling author. I share security projects to help people excel in the security domain.
+Hi, I'm Abdulmuheez Qazeem, Rajneesh Gupta, Cybersecurity Analyst, Pentester and Coach, I share security projects and tools.
 
 ## Connect with Me
 
-- **LinkedIn**: [Rajneesh Gupta](https://www.linkedin.com/in/rajneeshcyber)
-- **Twitter**: [@rajneeshcyber](https://twitter.com/rajneeshcyber)
-- **YouTube Channel**: [Rajneesh Gupta](https://www.youtube.com/channel/rajneeshcyber)
+- **LinkedIn**: [Abdulmuheez Qazeem](https://www.linkedin.com/in/cyberflex-4936763)
+- **Twitter**: [@cyb3rflex](https://twitter.com/cyb3rflex)
 
 Feel free to connect with me on any of these platforms!
 
-## Professional Services
-
-For professional services and consultations, please visit my company website at [Hax Security](https://www.haxsecurity.com).
-
 Thank you for visiting my GitHub page!
+
+------
+Credits to -Rajneesh Gupta.
+------
